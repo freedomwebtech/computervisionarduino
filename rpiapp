@@ -1,2 +1,7 @@
 install pi apps:- 
   wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+  
+  
+  
+  ##ESP8266LINK##
+  http://arduino.esp8266.com/stable/package_esp8266com_index.json
